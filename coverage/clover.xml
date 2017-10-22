@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1508082027524" clover="3.2.0">
+  <project timestamp="1508082027524" name="All files">
+    <metrics statements="93" coveredstatements="73" conditionals="21" coveredconditionals="15" methods="21" coveredmethods="11" elements="135" coveredelements="99" complexity="0" loc="93" ncloc="93" packages="7" files="10" classes="10">
+      <package name="react-login-registration">
+        <metrics statements="5" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+        <file name="setupJest.js" path="/home/nhung/Documents/test_react_app/react-login-registration/setupJest.js">
+          <metrics statements="5" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+          <line num="1" count="1" type="stmt"/>
+          <line num="2" count="1" type="stmt"/>
+          <line num="3" count="1" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="6" count="1" type="stmt"/>
+        </file>
+      </package>
+      <package name="react-login-registration.src.connectivity">
+        <metrics statements="29" coveredstatements="21" conditionals="11" coveredconditionals="6" methods="5" coveredmethods="4"/>
+        <file name="api.auth.js" path="/home/nhung/Documents/test_react_app/react-login-registration/src/connectivity/api.auth.js">
+          <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+          <line num="7" count="1" type="stmt"/>
+          <line num="9" count="1" type="stmt"/>
+          <line num="11" count="1" type="stmt"/>
+          <line num="19" count="1" type="stmt"/>
+          <line num="21" count="1" type="stmt"/>
+        </file>
+        <file name="async-fetch.js" path="/home/nhung/Documents/test_react_app/react-login-registration/src/connectivity/async-fetch.js">
+          <metrics statements="7" coveredstatements="6" conditionals="5" coveredconditionals="4" methods="1" coveredmethods="1"/>
+          <line num="6" count="1" type="stmt"/>
+          <line num="8" count="1" type="cond" truecount="2" falsecount="0"/>
+          <line num="10" count="1" type="cond" truecount="1" falsecount="1"/>
+          <line num="11" count="0" type="stmt"/>
+          <line num="14" count="1" type="stmt"/>
+          <line num="18" count="1" type="stmt"/>
+          <line num="20" count="1" type="stmt"/>
+        </file>
+        <file name="baseRequestConfig.js" path="/home/nhung/Documents/test_react_app/react-login-registration/src/connectivity/baseRequestConfig.js">
+          <metrics statements="6" coveredstatements="5" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
+          <line num="4" count="3" type="stmt"/>
+          <line num="6" count="2" type="stmt"/>
+          <line num="8" count="2" type="stmt"/>
+          <line num="16" count="2" type="cond" truecount="2" falsecount="2"/>
+          <line num="17" count="0" type="stmt"/>
+          <line num="20" count="2" type="stmt"/>
+        </file>
+        <file name="localStorage.js" path="/home/nhung/Documents/test_react_app/react-login-registration/src/connectivity/localStorage.js">
+          <metrics statements="11" coveredstatements="5" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="1"/>
+          <line num="1" count="3" type="stmt"/>
+          <line num="2" count="2" type="stmt"/>
+          <line num="3" count="2" type="stmt"/>
+          <line num="5" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="9" count="0" type="stmt"/>
+          <line num="12" count="2" type="stmt"/>
+          <line num="16" count="3" type="stmt"/>
+          <line num="17" count="0" type="stmt"/>
+          <line num="18" count="0" type="stmt"/>
+          <line num="19" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="react-login-registration.src.constants">
+        <metrics statements="19" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <file name="actionTypes.js" path="/home/nhung/Documents/test_react_app/react-login-registration/src/constants/actionTypes.js">
+          <metrics statements="19" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="1" count="2" type="stmt"/>
+          <line num="4" count="2" type="stmt"/>
+          <line num="5" count="2" type="stmt"/>
+          <line num="6" count="2" type="stmt"/>
+          <line num="9" count="2" type="stmt"/>
+          <line num="10" count="2" type="stmt"/>
+          <line num="11" count="2" type="stmt"/>
+          <line num="12" count="2" type="stmt"/>
+          <line num="14" count="2" type="stmt"/>
+          <line num="15" count="2" type="stmt"/>
+          <line num="18" count="2" type="stmt"/>
+          <line num="19" count="2" type="stmt"/>
+          <line num="20" count="2" type="stmt"/>
+          <line num="23" count="2" type="stmt"/>
+          <line num="24" count="2" type="stmt"/>
+          <line num="25" count="2" type="stmt"/>
+          <line num="29" count="2" type="stmt"/>
+          <line num="30" count="2" type="stmt"/>
+          <line num="31" count="2" type="stmt"/>
+        </file>
+      </package>
+      <package name="react-login-registration.src.errors">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <file name="HttpApiCallError.js" path="/home/nhung/Documents/test_react_app/react-login-registration/src/errors/HttpApiCallError.js">
+          <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+          <line num="5" count="1" type="stmt"/>
+          <line num="7" count="1" type="stmt"/>
+          <line num="8" count="1" type="stmt"/>
+          <line num="10" count="1" type="stmt"/>
+          <line num="11" count="1" type="stmt"/>
+        </file>
+      </package>
+      <package name="react-login-registration.src.helpers">
+        <metrics statements="12" coveredstatements="12" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <file name="formErrorHelper.js" path="/home/nhung/Documents/test_react_app/react-login-registration/src/helpers/formErrorHelper.js">
+          <metrics statements="12" coveredstatements="12" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+          <line num="3" count="1" type="stmt"/>
+          <line num="7" count="5" type="stmt"/>
+          <line num="9" count="5" type="stmt"/>
+          <line num="11" count="5" type="cond" truecount="2" falsecount="0"/>
+          <line num="12" count="3" type="stmt"/>
+          <line num="21" count="5" type="stmt"/>
+          <line num="27" count="1" type="stmt"/>
+          <line num="29" count="3" type="stmt"/>
+          <line num="31" count="3" type="cond" truecount="2" falsecount="0"/>
+          <line num="32" count="2" type="stmt"/>
+          <line num="35" count="1" type="stmt"/>
+          <line num="43" count="3" type="stmt"/>
+        </file>
+      </package>
+      <package name="react-login-registration.src.reducers">
+        <metrics statements="5" coveredstatements="3" conditionals="4" coveredconditionals="3" methods="2" coveredmethods="1"/>
+        <file name="requestReducer.js" path="/home/nhung/Documents/test_react_app/react-login-registration/src/reducers/requestReducer.js">
+          <metrics statements="5" coveredstatements="3" conditionals="4" coveredconditionals="3" methods="2" coveredmethods="1"/>
+          <line num="8" count="4" type="cond" truecount="2" falsecount="1"/>
+          <line num="11" count="3" type="stmt"/>
+          <line num="19" count="0" type="stmt"/>
+          <line num="21" count="0" type="stmt"/>
+          <line num="28" count="1" type="stmt"/>
+        </file>
+      </package>
+      <package name="react-login-registration.src.sagas">
+        <metrics statements="18" coveredstatements="9" conditionals="2" coveredconditionals="2" methods="8" coveredmethods="1"/>
+        <file name="auth.saga.js" path="/home/nhung/Documents/test_react_app/react-login-registration/src/sagas/auth.saga.js">
+          <metrics statements="18" coveredstatements="9" conditionals="2" coveredconditionals="2" methods="8" coveredmethods="1"/>
+          <line num="10" count="3" type="stmt"/>
+          <line num="12" count="3" type="stmt"/>
+          <line num="19" count="3" type="stmt"/>
+          <line num="21" count="3" type="stmt"/>
+          <line num="23" count="2" type="cond" truecount="2" falsecount="0"/>
+          <line num="24" count="1" type="stmt"/>
+          <line num="27" count="1" type="stmt"/>
+          <line num="36" count="2" type="stmt"/>
+          <line num="46" count="3" type="stmt"/>
+          <line num="58" count="0" type="stmt"/>
+          <line num="69" count="0" type="stmt"/>
+          <line num="71" count="0" type="stmt"/>
+          <line num="73" count="0" type="stmt"/>
+          <line num="86" count="0" type="stmt"/>
+          <line num="98" count="0" type="stmt"/>
+          <line num="105" count="0" type="stmt"/>
+          <line num="110" count="0" type="stmt"/>
+          <line num="116" count="0" type="stmt"/>
+        </file>
+      </package>
+    </metrics>
+  </project>
+</coverage>
